@@ -1,7 +1,7 @@
 # syn-round
 simple application to round/blur the synapse x ui
 <br />along with a nice looking theme
-
+# \**requires windows 11*\*
 ---
 
 ### how to use it:
