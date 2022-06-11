@@ -8,7 +8,7 @@ simple application to round/blur the synapse x ui
 Copy *round.exe* and *round_options.json* **into your Synapse launcher folder**.
 ![](https://cdn.discordapp.com/attachments/876284350499540995/985093409251401758/unknown.png)
 
-<br /> I also recommend you take my theme files and put them in your *bin* folder.
+<br /> I also recommend dragging my *bin* folder into your Synapse launcher folder to get the custom theme.
 <br /> Warning: enabling blur will make your window lag bit while dragging. this is due to the windows api having an unoptimized blur method
 <br />
 
