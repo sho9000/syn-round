@@ -8,7 +8,7 @@ simple application to round/blur the synapse x ui
 Copy *round.exe* and *round_options.json* **into your Synapse launcher folder**.
 ![](https://cdn.discordapp.com/attachments/876284350499540995/985093409251401758/unknown.png)
 
-<br /> I also recommend dragging my *bin* folder into your Synapse launcher folder to get the custom theme.
+<br /> I also recommend dragging my *bin* folder into your Synapse launcher folder to get the custom theme. For the font to work, install Quicksand font I supplied in the repo
 <br />
 
 ### configuring options (*round_options.json*):
