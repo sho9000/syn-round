@@ -9,7 +9,6 @@ Copy *round.exe* and *round_options.json* **into your Synapse launcher folder**.
 ![](https://cdn.discordapp.com/attachments/876284350499540995/985093409251401758/unknown.png)
 
 <br /> I also recommend dragging my *bin* folder into your Synapse launcher folder to get the custom theme.
-<br /> Warning: enabling blur will make your window lag bit while dragging. this is due to the windows api having an unoptimized blur method
 <br />
 
 ### configuring options (*round_options.json*):
@@ -39,6 +38,7 @@ once you have followed all the steps and chosen your settings, **just run *round
 Here I made my background color very transparent to get a more glassy look.
 <br />You can edit your background color in theme-wpf.json in your bin folder.
 <br />my round_options: *blur: true, rounding: true, small: false*
+<br /> Warning: enabling blur will make your window lag bit while dragging. this is due to the windows api having an unoptimized blur method
 ![](https://cdn.discordapp.com/attachments/876284350499540995/985088957085794344/unknown.png)
 
 Here I have a slightly darker and less transparent background color
