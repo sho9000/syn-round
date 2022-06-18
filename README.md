@@ -8,7 +8,10 @@ simple application to round/blur the synapse x ui
 Copy *round.exe* and *round_options.json* **into your Synapse launcher folder**.
 ![](https://cdn.discordapp.com/attachments/876284350499540995/985093409251401758/unknown.png)
 
-<br /> I also recommend dragging the *bin* folder in either the transparent or non transparent theme folder that came in the zip file into your Synapse launcher folder to get the custom theme. For the font to work, install Quicksand font I supplied in the zip file
+<br /> I also recommend dragging the *bin* folder in either the transparent or non transparent theme folder that came in the zip file into your Synapse launcher folder to get the custom theme.
+For the theme font to work, install Quicksand font I supplied in the zip file, or just Ctrl+H for "Quicksand" in the theme-wpf.json file and replace the font with the font of your choice. The default font is Segoe UI
+
+If the editor font is weird then install Microsoft's Cascadia Code font, which should have came prebuilt into windows 11 anyways, but someone had this issue once.
 <br />
 
 ### configuring options (*round_options.json*):
@@ -48,3 +51,6 @@ Here I have a slightly darker and less transparent background color
 Here I made the background not transparent, and set small rounding
 <br />my round_options: *blur: false, rounding: true, small: true*
 ![](https://cdn.discordapp.com/attachments/876284350499540995/985089301568180254/unknown.png)
+
+# Find this line in your theme-wpf.json to edit how transparent the background is.
+![](https://cdn.discordapp.com/attachments/876284350499540995/987566816475902002/unknown.png)
